@@ -1,0 +1,70 @@
+.flex1{
+    display: inline-block;
+    position: relative;
+    background-color: rgb(255, 255, 255)
+}
+.logo-docplanner {
+    width: 268px;
+    height: 33px;
+} 
+.main-menu .is-current, .main-menu .is-current a {
+    color: #00b39b;
+}
+.lead__logo {
+    display: block;
+    margin: 0 auto;
+}
+.lead h1 {
+    text-align: center;
+}
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.col-2 {
+    width: 50%;
+}
+[class*=col-] {
+    float: left;
+    min-height: 1px;
+    padding: 10px;
+}
+[class*=col-] {
+    float: left;
+    min-height: 1px;
+    padding: 10px;
+}
+.grid {
+    margin: 0 -10px;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+.services__item img {
+    margin-bottom: -0.4em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    border: 0;
+}
+.services__item h1 {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
+.services__item h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
